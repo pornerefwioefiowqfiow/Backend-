@@ -1,0 +1,13 @@
+.top-bar .cnt-account{
+	float:right;
+}
+.header-style-1 .header-nav {
+    background: #000 !important;
+}
+.sidebar-menu-li{
+	padding-top: 12px;
+	background: #f0f0f0;
+}
+.sidebar-menu-li>a {
+	border-radius: 42px;
+}
